@@ -1,0 +1,189 @@
+{
+	"brand": [
+		{
+			"language_tag": "it_IT",
+			"marketplace_id": "APJ6JRA9NG5V4",
+			"value": "Diadora"
+		}
+	],
+	"bullet_point": [
+		{
+			"language_tag": "it_IT",
+			"value": "Example bullet point 1"
+		}
+	],
+	"country_of_origin": [
+		{
+			"value": "IT"
+		}
+	],
+	"item_name": [
+		{
+			"language_tag": "it_IT",
+			"marketplace_id": "APJ6JRA9NG5V4",
+			"value": "Item name"
+		}
+	],
+	"product_description": [
+		{
+			"language_tag": "it_IT",
+			"value": "Item description"
+		}
+	],
+	"recommended_browse_nodes": [
+		{
+			"value": "2945"
+		}
+	],
+	"supplier_declared_dg_hz_regulation": [
+		{
+			"value": "not_applicable"
+		}
+	],
+	"department": [
+		{
+			"language_tag": "it_IT",
+			"value": "Unisex adulto"
+		}
+	],
+	"grip": [
+		{
+			"material": [
+				{
+					"language_tag": "it_IT",
+					"value": "Rubber"
+				}
+			],
+			"type": [
+				{
+					"language_tag": "it_IT",
+					"value": "Isolated"
+				}
+			],
+			"size": [
+				{
+					"language_tag": "it_IT",
+					"value": "Small"
+				}
+			]
+		}
+	],
+	"handle": [
+		{
+			"material": [
+				{
+					"language_tag": "it_IT",
+					"value": "Steel"
+				}
+			]
+		}
+	],
+	"included_components": [
+		{
+			"language_tag": "it_IT",
+			"value": "None"
+		}
+	],
+	"item_type_name": [
+		{
+			"language_tag": "it_IT",
+			"value": "Baseball bat"
+		}
+	],
+	"manufacturer": [
+		{
+			"language_tag": "it_IT",
+			"value": "Diadora"
+		}
+	],
+	"model_name": [
+		{
+			"language_tag": "it_IT",
+			"value": "001"
+		}
+	],
+	"warranty_description": [
+		{
+			"language_tag": "it_IT",
+			"marketplace_id": "APJ6JRA9NG5V4",
+			"value": "2 years"
+		}
+	],
+	"item_package_dimensions": [
+		{
+			"height": {
+				"value": 10,
+				"unit": "centimeters"
+			},
+			"length": {
+				"value": 10,
+				"unit": "centimeters"
+			},
+			"width": {
+				"value": 10,
+				"unit": "centimeters"
+			}
+		}
+	],
+	"item_package_weight": [
+		{
+			"value": 1,
+			"unit": "kilograms"
+		}
+	],
+	"eu_toys_safety_directive_warning": [
+		{
+			"value": "no_warning_applicable"
+		}
+	],
+	"eu_toys_safety_directive_age_warning": [
+		{
+			"value": "no_warning_applicable"
+		}
+	],
+	"batteries_required": [
+		{
+			"value": false
+		}
+	],
+	"size": [
+		{
+			"language_tag": "it_IT",
+			"value": "Small"
+		}
+	],
+	"color": [
+		{
+			"language_tag": "it_IT",
+			"value": "Black"
+		}
+	],
+	"material": [
+		{
+			"language_tag": "it_IT",
+			"value": "Steel"
+		}
+	],
+	"condition_type": [
+		{
+			"value": "new_new"
+		}
+	],
+	"externally_assigned_product_identifier": [
+		{
+			"type": "ean",
+			"value": "0000000000000"
+		}
+	],
+	"fulfillment_availability": [
+		{
+			"fulfillment_channel_code": "DEFAULT",
+			"quantity": 0
+		}
+	],
+	"merchant_shipping_group": [
+		{
+			"value": "DEFAULT"
+		}
+	]
+}
